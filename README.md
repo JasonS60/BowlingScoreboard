@@ -31,5 +31,3 @@ This allows for a potential of 12 strikes in a single game, and a maximum score 
 * The solution should allow the user to enter scores as the game progresses
 * The solution should show the running score for each bowler as the game progresses
 * The solution should show the final score for each bowler when the game finishes
-
-Please let us know if you have any questions. We look forward to seeing your solution!
